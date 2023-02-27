@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T08:07:44.579Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="yf2LPTOojyR5f3_SfrbI" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T08:08:07.392Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="-uie6RCW36cSEz697Gy4" version="20.8.23" type="github">
   <diagram name="Page-1" id="HMJ9_oqMgrOE_6aHdy7X">
-    <mxGraphModel dx="1434" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="837" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,10 +35,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tXELSwM_ZJvUz3e9Nmds-17" value="\( k_2 \)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="155" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="155" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tXELSwM_ZJvUz3e9Nmds-19" value="\( X_2(s) \)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="155" width="60" height="30" as="geometry" />
+          <mxGeometry x="350" y="155" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tXELSwM_ZJvUz3e9Nmds-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tXELSwM_ZJvUz3e9Nmds-20" target="tXELSwM_ZJvUz3e9Nmds-45">
           <mxGeometry relative="1" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="650" y="175" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tXELSwM_ZJvUz3e9Nmds-23" value="\( X_3(s) \)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="155" width="60" height="30" as="geometry" />
+          <mxGeometry x="550" y="155" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tXELSwM_ZJvUz3e9Nmds-26" value="+" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="165" width="30" height="20" as="geometry" />
