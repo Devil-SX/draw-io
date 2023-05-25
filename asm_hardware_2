@@ -1,5 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T02:54:33.227Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.18" etag="7xSnrI4hscyoQaW4Ymwp" version="21.3.3" type="github" pages="3">
-  <diagram name="Page-1" id="g8XfZLKJrc3iKFcSFIZN">
+<mxfile host="app.diagrams.net" modified="2023-05-25T02:57:08.734Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.18" etag="y0J4-dYiQg1xs1CAgpoi" version="21.3.3" type="github" pages="3">
+  <diagram id="n24QK4Z3xyfhweB5UsuJ" name="Ex1_8255">
+    <mxGraphModel dx="1423" dy="319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lWZoVlznRK5BYq5mxF1a-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="thp17V6GvBJlX8vmAMR5-1" target="bxFl4tzbdrA92FBcdigE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lWZoVlznRK5BYq5mxF1a-2" value="并行数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lWZoVlznRK5BYq5mxF1a-1">
+          <mxGeometry x="0.2079" relative="1" as="geometry">
+            <mxPoint x="-6" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="thp17V6GvBJlX8vmAMR5-1" value="小键盘" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="230" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lWZoVlznRK5BYq5mxF1a-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="AwF23HsPYi2H54oiaqwZ-1" target="lWZoVlznRK5BYq5mxF1a-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AwF23HsPYi2H54oiaqwZ-1" value="TPC-ZK-II实验板" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="230" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lWZoVlznRK5BYq5mxF1a-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bxFl4tzbdrA92FBcdigE-1" target="AwF23HsPYi2H54oiaqwZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lWZoVlznRK5BYq5mxF1a-4" value="并行数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lWZoVlznRK5BYq5mxF1a-3">
+          <mxGeometry x="0.2195" relative="1" as="geometry">
+            <mxPoint x="-7" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxFl4tzbdrA92FBcdigE-1" value="8255并行" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="230" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lWZoVlznRK5BYq5mxF1a-5" value="显示器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="320" width="90" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Ex2_Interupt" id="g8XfZLKJrc3iKFcSFIZN">
     <mxGraphModel dx="1541" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -64,7 +103,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="EySJLlOnLX7zBvnmLETM" name="Page-2">
+  <diagram id="EySJLlOnLX7zBvnmLETM" name="Ex3_Serial">
     <mxGraphModel dx="1852" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -127,45 +166,6 @@
         </mxCell>
         <mxCell id="O3djME8hwAymqk5rpXdD-3" value="键盘" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-650" y="320" width="90" height="50" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="n24QK4Z3xyfhweB5UsuJ" name="Page-3">
-    <mxGraphModel dx="1423" dy="319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="lWZoVlznRK5BYq5mxF1a-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="thp17V6GvBJlX8vmAMR5-1" target="bxFl4tzbdrA92FBcdigE-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lWZoVlznRK5BYq5mxF1a-2" value="并行数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lWZoVlznRK5BYq5mxF1a-1">
-          <mxGeometry x="0.2079" relative="1" as="geometry">
-            <mxPoint x="-6" y="-15" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="thp17V6GvBJlX8vmAMR5-1" value="小键盘" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-790" y="230" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="lWZoVlznRK5BYq5mxF1a-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="AwF23HsPYi2H54oiaqwZ-1" target="lWZoVlznRK5BYq5mxF1a-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="AwF23HsPYi2H54oiaqwZ-1" value="TPC-ZK-II实验板" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="230" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="lWZoVlznRK5BYq5mxF1a-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bxFl4tzbdrA92FBcdigE-1" target="AwF23HsPYi2H54oiaqwZ-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lWZoVlznRK5BYq5mxF1a-4" value="并行数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lWZoVlznRK5BYq5mxF1a-3">
-          <mxGeometry x="0.2195" relative="1" as="geometry">
-            <mxPoint x="-7" y="-15" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bxFl4tzbdrA92FBcdigE-1" value="8255并行" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="230" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="lWZoVlznRK5BYq5mxF1a-5" value="显示屏" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="320" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
