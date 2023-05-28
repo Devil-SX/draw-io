@@ -1,9 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2023-05-28T05:36:44.341Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.18" version="21.3.4" etag="KpPFEOLOXFWv5SoKJ4Hb" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-28T05:53:23.891Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.18" etag="6gJyKbYkYP_1JFqi8Giq" version="21.3.4" type="github">
   <diagram name="Page-1" id="s72_SWnRJJyErXPg-qY1">
-    <mxGraphModel>
+    <mxGraphModel dx="1002" dy="958" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zLQlHZrNiOA0dZCKo_BY-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zLQlHZrNiOA0dZCKo_BY-1" target="zLQlHZrNiOA0dZCKo_BY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLQlHZrNiOA0dZCKo_BY-1" value="估计主要分量\(\hat{f&#39;_{\omega _m}}\)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="127" y="139" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLQlHZrNiOA0dZCKo_BY-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zLQlHZrNiOA0dZCKo_BY-2" target="zLQlHZrNiOA0dZCKo_BY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLQlHZrNiOA0dZCKo_BY-2" value="原始信号\(f\)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="127" y="-52" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLQlHZrNiOA0dZCKo_BY-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zLQlHZrNiOA0dZCKo_BY-4" target="zLQlHZrNiOA0dZCKo_BY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLQlHZrNiOA0dZCKo_BY-4" value="识别\(f\)主要分量\( \omega_m|m=1,...,k \)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="127" y="44" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLQlHZrNiOA0dZCKo_BY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zLQlHZrNiOA0dZCKo_BY-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="187" y="23" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="187" y="329" />
+              <mxPoint x="315" y="329" />
+              <mxPoint x="315" y="23" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLQlHZrNiOA0dZCKo_BY-5" value="减去分量\(f=f-f&#39;\)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="127" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
