@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-06-30T01:19:54.401Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.18" version="21.5.0" etag="rG-Gjav5ABcTN42wHkN3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-30T01:24:03.846Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.18" etag="uqmLdZJVndkSBXlaZmNr" version="21.5.0" type="github">
   <diagram name="Page-1" id="UuWvNoZmlsIm7Wax8wLS">
-    <mxGraphModel>
+    <mxGraphModel dx="2281" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rzsTtsRvyMfZczemutlZ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rzsTtsRvyMfZczemutlZ-1" target="rzsTtsRvyMfZczemutlZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzsTtsRvyMfZczemutlZ-1" value="电路分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rzsTtsRvyMfZczemutlZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rzsTtsRvyMfZczemutlZ-2" target="rzsTtsRvyMfZczemutlZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzsTtsRvyMfZczemutlZ-2" value="大学物理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rzsTtsRvyMfZczemutlZ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rzsTtsRvyMfZczemutlZ-3" target="rzsTtsRvyMfZczemutlZ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzsTtsRvyMfZczemutlZ-3" value="模拟电路" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rzsTtsRvyMfZczemutlZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rzsTtsRvyMfZczemutlZ-5" target="rzsTtsRvyMfZczemutlZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzsTtsRvyMfZczemutlZ-5" value="理论物理导论" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rzsTtsRvyMfZczemutlZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rzsTtsRvyMfZczemutlZ-7" target="rzsTtsRvyMfZczemutlZ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzsTtsRvyMfZczemutlZ-7" value="半导体物理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rzsTtsRvyMfZczemutlZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rzsTtsRvyMfZczemutlZ-9" target="rzsTtsRvyMfZczemutlZ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzsTtsRvyMfZczemutlZ-9" value="半导体器件" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rzsTtsRvyMfZczemutlZ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rzsTtsRvyMfZczemutlZ-12" target="rzsTtsRvyMfZczemutlZ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzsTtsRvyMfZczemutlZ-12" value="数字电路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rzsTtsRvyMfZczemutlZ-13" value="集成电路工程" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rzsTtsRvyMfZczemutlZ-16" value="电路知识" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="185" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzsTtsRvyMfZczemutlZ-17" value="半导体知识" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="305" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="rzsTtsRvyMfZczemutlZ-18" value="电路+半导体" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="695" y="190" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzsTtsRvyMfZczemutlZ-19" value="逻辑运算" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
