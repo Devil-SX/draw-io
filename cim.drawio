@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T08:54:44.225Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.18" etag="HCgOk5x1ouAfShov_ToA" version="21.6.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-07-17T08:54:56.528Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.18" etag="WLzul0Ip5eCvrsWXQy2P" version="21.6.2" type="github" pages="7">
   <diagram name="TOP BANK" id="jszp51cRE83XtRZx09wc">
     <mxGraphModel dx="612" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1668,7 +1668,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="control logic" id="PnxrOrpw3wJ2755hs4XK">
-    <mxGraphModel dx="2339" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1569" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="CER4VZlO3a_p4T3JXK6f-0" />
         <mxCell id="CER4VZlO3a_p4T3JXK6f-1" parent="CER4VZlO3a_p4T3JXK6f-0" />
@@ -1779,7 +1779,7 @@
         </mxCell>
         <mxCell id="QTO7JTopM3AkrZKOUY1D-22" value="mux sel&lt;br&gt;1bit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QTO7JTopM3AkrZKOUY1D-21">
           <mxGeometry x="-0.3731" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-62" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QTO7JTopM3AkrZKOUY1D-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.987;exitY=0.137;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="CER4VZlO3a_p4T3JXK6f-1" source="QTO7JTopM3AkrZKOUY1D-23">
