@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-12T15:28:43.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="Z5aO2udjhMxRvGntsQSS" version="21.6.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-12T15:44:38.465Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="GW08t8jrDQk9Kxm7Cgdu" version="21.6.7" type="github" pages="4">
   <diagram name="iverilog" id="wx9lBFD7JG-YGUOO6VNd">
     <mxGraphModel dx="1149" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -78,15 +78,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9TGNGnkgwA-AxxeyoCZ5-5" value="modelsim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Times New Roman;fontColor=default;" vertex="1" connectable="0" parent="9TGNGnkgwA-AxxeyoCZ5-4">
-          <mxGeometry x="0.498" y="2" relative="1" as="geometry">
-            <mxPoint x="-2" y="-8" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9TGNGnkgwA-AxxeyoCZ5-6" value="Testbench(.v/.sv)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="9TGNGnkgwA-AxxeyoCZ5-1">
           <mxGeometry x="140" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9TGNGnkgwA-AxxeyoCZ5-9" value="Simulation&lt;br&gt;(Executable)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="9TGNGnkgwA-AxxeyoCZ5-1">
+        <mxCell id="9TGNGnkgwA-AxxeyoCZ5-9" value="Modelsim&lt;br&gt;Simulator" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="9TGNGnkgwA-AxxeyoCZ5-1">
           <mxGeometry x="365" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9TGNGnkgwA-AxxeyoCZ5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="9TGNGnkgwA-AxxeyoCZ5-1" target="9TGNGnkgwA-AxxeyoCZ5-12">
