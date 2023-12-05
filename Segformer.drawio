@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T08:00:29.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="deKbbWoJUqg_2aTz5oTe" version="22.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-05T08:58:45.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="RF7I_CqlCpnnwDqLzHRi" version="22.1.5" type="github" pages="2">
   <diagram name="MoE" id="z65TsHPgpahRelH1In6i">
     <mxGraphModel dx="2016" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of MoE" id="_BHMkZUDLDBCgBVqgYSD">
-    <mxGraphModel dx="1579" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1714" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="o--M-ThoFx4ToeZwl_uS-0" />
         <mxCell id="o--M-ThoFx4ToeZwl_uS-1" parent="o--M-ThoFx4ToeZwl_uS-0" />
@@ -407,12 +407,18 @@
         </mxCell>
         <mxCell id="KqpGIHSpPK1VrXQ47iJ2-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="o--M-ThoFx4ToeZwl_uS-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-770" y="900" as="sourcePoint" />
-            <mxPoint x="-660" y="900" as="targetPoint" />
+            <mxPoint x="-760" y="900" as="sourcePoint" />
+            <mxPoint x="-650" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KqpGIHSpPK1VrXQ47iJ2-33" value="（1, 1, 32)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
+        <mxCell id="KqpGIHSpPK1VrXQ47iJ2-33" value="（1, 1, 32)&lt;br&gt;(24 bit)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
           <mxGeometry x="-770" y="910" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E0J84WVXJ0ygx-4FzMQl-0" value="Element-wise Linear Transform&lt;br&gt;(" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
+          <mxGeometry x="-650" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E0J84WVXJ0ygx-4FzMQl-1" value="Element-wise Linear Transform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
+          <mxGeometry x="-450" y="870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
