@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T09:57:43.672Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="RsMXqFG57K4L-rAjuPy8" version="22.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-06T09:58:02.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="joNQcPFe4UMqXlObc44h" version="22.1.5" type="github" pages="2">
   <diagram name="MoE" id="z65TsHPgpahRelH1In6i">
     <mxGraphModel dx="2016" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -441,7 +441,7 @@
         <mxCell id="KAMgUMfUzjjcrkdJxFSP-6" value="Switch Row" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
           <mxGeometry x="-660" y="1310" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KAMgUMfUzjjcrkdJxFSP-9" value="Add Current&lt;br&gt;(Bit 截取)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
+        <mxCell id="KAMgUMfUzjjcrkdJxFSP-9" value="Add Current&lt;br&gt;(Bit 长度)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
           <mxGeometry x="-355" y="1170" width="75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KAMgUMfUzjjcrkdJxFSP-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="o--M-ThoFx4ToeZwl_uS-1">
