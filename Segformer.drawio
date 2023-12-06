@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T10:29:37.597Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="mlZTDOhpTl0Tie9Ix_No" version="22.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-06T10:33:21.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="3duZITwrhTj1IbEyijpM" version="22.1.5" type="github" pages="2">
   <diagram name="MoE" id="z65TsHPgpahRelH1In6i">
     <mxGraphModel dx="2016" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of MoE" id="_BHMkZUDLDBCgBVqgYSD">
-    <mxGraphModel dx="2793" dy="1370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2644" dy="1265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="o--M-ThoFx4ToeZwl_uS-0" />
         <mxCell id="o--M-ThoFx4ToeZwl_uS-1" parent="o--M-ThoFx4ToeZwl_uS-0" />
@@ -598,16 +598,55 @@
           <mxGeometry x="-225" y="1610" width="25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KAMgUMfUzjjcrkdJxFSP-72" value="Compute&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
-          <mxGeometry x="-140" y="1890" width="60" height="60" as="geometry" />
+          <mxGeometry x="70" y="1890" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KAMgUMfUzjjcrkdJxFSP-73" value="Write" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
-          <mxGeometry x="-140" y="1610" width="25" height="60" as="geometry" />
+          <mxGeometry x="70" y="1610" width="25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KAMgUMfUzjjcrkdJxFSP-75" value="Fetch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
-          <mxGeometry x="-115" y="1610" width="25" height="60" as="geometry" />
+          <mxGeometry x="95" y="1610" width="25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KAMgUMfUzjjcrkdJxFSP-76" value="Write" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
-          <mxGeometry x="-72.5" y="1610" width="25" height="60" as="geometry" />
+          <mxGeometry x="137.5" y="1610" width="25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAMgUMfUzjjcrkdJxFSP-77" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
+          <mxGeometry x="-260" y="1570" width="20" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="KAMgUMfUzjjcrkdJxFSP-78" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="o--M-ThoFx4ToeZwl_uS-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="209" y="1960" as="sourcePoint" />
+            <mxPoint x="209" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAMgUMfUzjjcrkdJxFSP-79" value="L/V" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
+          <mxGeometry x="180" y="1960" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KAMgUMfUzjjcrkdJxFSP-80" value="2 Channel Phase" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
+          <mxGeometry x="-300" y="2010" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KAMgUMfUzjjcrkdJxFSP-81" value="Switch Row" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
+          <mxGeometry x="-140" y="1810" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAMgUMfUzjjcrkdJxFSP-84" value="Compute&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
+          <mxGeometry y="1890" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAMgUMfUzjjcrkdJxFSP-85" value="Write" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
+          <mxGeometry y="1610" width="25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAMgUMfUzjjcrkdJxFSP-86" value="Fetch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
+          <mxGeometry x="25" y="1610" width="25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAMgUMfUzjjcrkdJxFSP-88" value="Cin / B Times" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
+          <mxGeometry x="-165" y="2010" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KAMgUMfUzjjcrkdJxFSP-89" value="Add Bias" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
+          <mxGeometry x="-385" y="1680" width="55" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAMgUMfUzjjcrkdJxFSP-90" value="Add Bias" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
+          <mxGeometry x="-315" y="1680" width="55" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAMgUMfUzjjcrkdJxFSP-91" value="Add Bias" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
+          <mxGeometry x="-247.5" y="1680" width="55" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
