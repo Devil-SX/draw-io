@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T10:04:46.497Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="Tu5j9vZUl56_Ox7Yo9Fy" version="22.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-06T10:09:48.143Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="eLyzSzlxPFmPEH1aULNV" version="22.1.5" type="github" pages="2">
   <diagram name="MoE" id="z65TsHPgpahRelH1In6i">
     <mxGraphModel dx="2016" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of MoE" id="_BHMkZUDLDBCgBVqgYSD">
-    <mxGraphModel dx="2222" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1822" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="o--M-ThoFx4ToeZwl_uS-0" />
         <mxCell id="o--M-ThoFx4ToeZwl_uS-1" parent="o--M-ThoFx4ToeZwl_uS-0" />
@@ -441,9 +441,6 @@
         <mxCell id="KAMgUMfUzjjcrkdJxFSP-6" value="Switch Row" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
           <mxGeometry x="-660" y="1310" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KAMgUMfUzjjcrkdJxFSP-9" value="Add Current&lt;br&gt;(Bit 长度)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
-          <mxGeometry x="-355" y="1170" width="75" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="KAMgUMfUzjjcrkdJxFSP-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="o--M-ThoFx4ToeZwl_uS-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-700" y="1430" as="sourcePoint" />
@@ -486,9 +483,6 @@
         <mxCell id="KAMgUMfUzjjcrkdJxFSP-22" value="Add Previous" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
           <mxGeometry x="82.5" y="1170" width="75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KAMgUMfUzjjcrkdJxFSP-23" value="Write" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
-          <mxGeometry x="-280" y="1100" width="40" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="KAMgUMfUzjjcrkdJxFSP-24" value="Write" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
           <mxGeometry x="157.5" y="1100" width="45" height="60" as="geometry" />
         </mxCell>
@@ -506,6 +500,33 @@
         </mxCell>
         <mxCell id="KAMgUMfUzjjcrkdJxFSP-30" value="Fetch 8 Tokens" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
           <mxGeometry x="-410" y="1100" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAMgUMfUzjjcrkdJxFSP-31" value="Memory Ctrl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
+          <mxGeometry x="-710" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAMgUMfUzjjcrkdJxFSP-32" value="From where" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
+          <mxGeometry x="-570" y="1540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAMgUMfUzjjcrkdJxFSP-33" value="Weight Addr" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
+          <mxGeometry x="-570" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAMgUMfUzjjcrkdJxFSP-34" value="Bias Addr" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
+          <mxGeometry x="-570" y="1680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAMgUMfUzjjcrkdJxFSP-37" value="Fetch Previous" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
+          <mxGeometry x="-280" y="1100" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAMgUMfUzjjcrkdJxFSP-38" value="Add Current" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
+          <mxGeometry x="-360" y="1170" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAMgUMfUzjjcrkdJxFSP-39" value="Add Previous" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
+          <mxGeometry x="-237.5" y="1170" width="75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAMgUMfUzjjcrkdJxFSP-40" value="Write" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
+          <mxGeometry x="-162.5" y="1100" width="45" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAMgUMfUzjjcrkdJxFSP-41" value="Fetch 8 Bias" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="o--M-ThoFx4ToeZwl_uS-1">
+          <mxGeometry x="-660" y="1100" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
