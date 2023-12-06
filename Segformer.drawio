@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T10:47:09.932Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="4qpN5nXKk2VYolvnSguZ" version="22.1.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-06T10:59:52.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="lJfdnBZDZzVHkV9nJt4u" version="22.1.5" type="github" pages="5">
   <diagram name="MoE" id="z65TsHPgpahRelH1In6i">
-    <mxGraphModel dx="2016" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2222" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -179,8 +179,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="29lITOfIl3ZKu4l2H8ht" name="Linear">
-    <mxGraphModel dx="2308" dy="1028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="29lITOfIl3ZKu4l2H8ht" name="Token-Linear">
+    <mxGraphModel dx="2077" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -286,7 +286,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="LI49Ob_hD7MfhVlHYXTc" name="Conv">
+  <diagram id="LI49Ob_hD7MfhVlHYXTc" name="Full-Conv">
     <mxGraphModel dx="2077" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -402,6 +402,14 @@
         <mxCell id="sHkdylxDCap5z0tbIk5m-35" value="Write" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="60" width="25" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RqQynXSQ4eK8e1yOtWu2" name="Token-wise">
+    <mxGraphModel dx="1166" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
