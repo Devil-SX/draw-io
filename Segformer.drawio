@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T06:53:21.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="sPEBfwgUYTF14Bgf9AaW" version="22.1.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-12-08T06:53:49.736Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="vl2jjCKgw4srkSTOKiHd" version="22.1.7" type="github" pages="8">
   <diagram name="MoE" id="z65TsHPgpahRelH1In6i">
     <mxGraphModel dx="2016" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -409,7 +409,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="29lITOfIl3ZKu4l2H8ht" name="Token-Linear Xc1r">
-    <mxGraphModel dx="2077" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2308" dy="1028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -568,6 +568,30 @@
         </mxCell>
         <mxCell id="OehER64y7abPv5XuiJB3-38" value="X times" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="55" y="570" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OehER64y7abPv5XuiJB3-39" value="Fetch Input" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OehER64y7abPv5XuiJB3-40" value="Fetch Input" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-302.5" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OehER64y7abPv5XuiJB3-41" value="Fetch Input" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-232.5" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OehER64y7abPv5XuiJB3-42" value="Fetch Input" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="60" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OehER64y7abPv5XuiJB3-43" value="Fetch Input" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OehER64y7abPv5XuiJB3-44" value="Fetch Input" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="67.5" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OehER64y7abPv5XuiJB3-45" value="Fetch Input" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="137.5" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OehER64y7abPv5XuiJB3-46" value="Fetch Input" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="60" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
