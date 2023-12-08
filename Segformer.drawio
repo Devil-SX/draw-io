@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T06:53:09.646Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="85hjtwTGi_-T27qiFEUW" version="22.1.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-12-08T06:53:21.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="sPEBfwgUYTF14Bgf9AaW" version="22.1.7" type="github" pages="8">
   <diagram name="MoE" id="z65TsHPgpahRelH1In6i">
     <mxGraphModel dx="2016" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -409,7 +409,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="29lITOfIl3ZKu4l2H8ht" name="Token-Linear Xc1r">
-    <mxGraphModel dx="2644" dy="1265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2077" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -469,9 +469,6 @@
         </mxCell>
         <mxCell id="m13zUnTbTkSVGjQgIZWU-24" value="Write" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-160" y="130" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="m13zUnTbTkSVGjQgIZWU-25" value="Fetch Bias * 8" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-680" y="130" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m13zUnTbTkSVGjQgIZWU-26" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="-205" y="120" width="20" height="1000" as="geometry" />
