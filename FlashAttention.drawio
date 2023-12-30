@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-30T05:12:00.031Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="FuI_Yoq62uDZrZ5zk6eF" version="22.1.16" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-12-30T05:13:47.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="A1sQMrahyr2ZOx4K8BXU" version="22.1.16" type="github" pages="3">
   <diagram name="Page-1" id="l2GUgNh9zmjY5Cf-5sg_">
     <mxGraphModel dx="1121" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -99,7 +99,7 @@
             <mxPoint x="245" y="455" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TcWfDwf8vTSDZB2S3x3i-11" value="&lt;b&gt;Softmax&amp;nbsp;&lt;/b&gt;(&lt;b style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;\(N+\Delta N\)&lt;/b&gt;&amp;nbsp;Tokens)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="TcWfDwf8vTSDZB2S3x3i-1">
+        <mxCell id="TcWfDwf8vTSDZB2S3x3i-11" value="&lt;b&gt;Softmax&lt;br&gt;&amp;nbsp;&lt;/b&gt;(&lt;b style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;\(N+\Delta N\)&lt;/b&gt;&amp;nbsp;Tokens)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="TcWfDwf8vTSDZB2S3x3i-1">
           <mxGeometry x="60" y="380" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TcWfDwf8vTSDZB2S3x3i-12" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="TcWfDwf8vTSDZB2S3x3i-1">
